@@ -25,9 +25,9 @@ const students = [
 const student = students.find(element => element.name === 'Marco Lanci');
 
 
-const studentClass = student.class;
 
-console.log(studentClass);
+
+console.log(student.class);
 
 
 
